@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **Mobile App Development**
 
-- 💬 Ask me about **linux,powershell and python**
+- 💬 Ask me about **Terraform ,powershell and python**
 
-- 📫 How to reach me **tb.tristanblond@gmail.com**
+- 📫 How to reach me **tristan@blondsecurity.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
